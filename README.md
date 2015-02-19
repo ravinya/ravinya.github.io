@@ -1,2 +1,1 @@
-# ravinya.github.io
-Start page
+Ravinya Home page

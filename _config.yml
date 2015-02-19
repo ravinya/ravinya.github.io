@@ -1,0 +1,11 @@
+# Site settings
+title: Ravinya Home
+email: support@ravinya.com
+description: Home page
+baseurl: 
+url: "http://ravinya.com" # the base hostname & protocol for your site
+github_username:  ravinya
+
+# Build settings
+markdown: kramdown
+# permalink: pretty
